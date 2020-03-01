@@ -8,12 +8,15 @@ between them, not all of them have been verified by my self and I am slowly doin
 
 so in a layered GIMP file.
 
-### Plain overview <World.png>
+### Plain overview (World.png)
 
 Dumped straight off the game correct as of 13:15 01/03/2020
 
-### Connections overlay <Connections.png>
+### Connections overlay (Connections.png)
 
+Correct as of 13:15 01/03/2020 (and as far as I know)
+
+Layered original of this file is called longdark.xcf
 
 ## Interloper specific
 
@@ -27,5 +30,6 @@ You can find it here: <https://docs.google.com/spreadsheets/d/11n0wfRQadaWay4feL
 
 If for some reason that is unreachable the snapshot I have added was correct
 
-as of: 13:15 01/03/2020 <Interloper/loottable.ods>
+as of: 13:15 01/03/2020, and you can access it at Interloper/loottable.ods or if you 
 
+preffer I also saved it as a pdf at Interloper/loottable.pdf
