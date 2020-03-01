@@ -1,7 +1,42 @@
-
 # LongDark InfoPack
 
 A collection of information from various sources for the Long Dark
+
+## Note on commiting
+
+Despite the rather chaotic commit history (with me figuring howto best lay the
+
+directory structure out), please always PR on a nicely named branch.
+
+## Note on layout
+
+This archive is laid out under the dataset/ directory by region and world, anything
+
+that is a global scope will of course be in the world directory, maps for specific
+
+regions will likewise be in the region/region-name directory.
+
+Every section has its own index with what is within it so as to not make this
+
+initial readme to large :) and easily browsable via github
+
+## Notes on journals
+
+If you would like to add in specific notes for specific areas feel free!
+
+Please name your journal after what it is for, for instance if you was writing
+
+about the farmstead in pleasant valley then you would want to name the file:
+
+    farmstead-location-of-cheetos.md(or .txt)
+
+This should be stored in the pleasantvalley folder within 'region', making the
+
+full path be: Region\Pleasant Valley\farmstead-location-of-cheetos.md
+
+If you are feeling upto it you could also adjust the README.md in that directory 
+
+to update you have added your journal and what its about :)
 
 ## Nomanculture
 
@@ -17,47 +52,6 @@ File types (and what can open them - not exhaustive):
 
 * pdf = Portable Document Format, most web browsers, foxit, adobe reader
 
-## Community built resources
+* md = Markdown a form of formatted text that can be rendered neatly directly on github
 
-This pack is hopefully had many people throw odds and ends in but its main goal
-
-is to simply make the long dark a little more explorable especially on the 
-
-higher difficulties, on the alpha versions of the long dark it was possible to 
-
-memorise most of the locations, now with the forklong muskeg+ its simply not
-
-at least not for most players!
-
-### Interloper specific
-
-#### Loot drop spreadsheet (many authors)
-
-* Source (maintained seperately) <https://docs.google.com/spreadsheets/d/11n0wfRQadaWay4feLbunF9dxIbS2hZ3O_I57x5JfF6s/edit#gid=1146953510>
-* Snapshot (13:15 01/03/2020) Interloper specific/dropsheet. <Interlooper/loottable.ods> (OpenDocument Format)
-
-## Sections
-
-### World Overview (World overview/*)
-
-This is a plain over view of all primary locations in the game and the connections
-
-between them, not all of them have been verified by my self and I am slowly doing 
-
-so in a layered GIMP file.
-
-#### Plain overview (World overview/World.png)
-
-Dumped straight off the game correct as of 
-
-#### Connections overlay (World overview/Connections.png)
-
-### Single zones (detailed)
-
-As many authors crop up multiple times I will add them here
-
-* Whiteberry <https://steamcommunity.com/sharedfiles/filedetails/?id=530202531>
-
-#### Desolation Point
-
-* Whiteberrys version (Desolation Point/whiteberry.jpg)
+* txt = A simple text file
