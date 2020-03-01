@@ -1,5 +1,5 @@
 
-# LongDark-InfoPack
+# LongDark InfoPack
 
 A collection of information from various sources for the Long Dar
 
@@ -39,5 +39,4 @@ As many authors crop up multiple times I will add them here
 
 #### Desolation Point
 
-#### Whiteberrys version 
-
+* Whiteberrys version (Desolation Point/whiteberry.jpg)
