@@ -1,4 +1,4 @@
-# LongDark InfoPack
+# The Long Dark - Info Pack
 
 A collection of information from various sources for the Long Dark
 
@@ -54,4 +54,4 @@ File types (and what can open them - not exhaustive):
 
 * md = Markdown a form of formatted text that can be rendered neatly directly on github
 
-* txt = A simple text file
+* txt = A simple text file open with your local editor
